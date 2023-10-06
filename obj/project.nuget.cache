@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GyIrwli14jDpVzAQdY5VBH6Vkl4XkKq/i3J+gtv79eoT7Z2u88ro0WDLQ5WAPW3VY1kq5Z2PX8TLqyjazmedYw==",
+  "dgSpecHash": "pzMaJrrb3saX2+tYLmDblIUsDNGZUve5d4v+2eHK1TDdxYXt1B6eRC4EuwGPBoumeRaT73IPFdELmkkSZrhm6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Halil\\Downloads\\WebUygulamaProje1_Version+1.0\\WebUygulamaProje1\\WebUygulamaProje1.csproj",
+  "projectFilePath": "C:\\Users\\Halil\\Documents\\GitHub\\Kutuphane-Uygulamasi\\WebUygulamaProje1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Halil\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Halil\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

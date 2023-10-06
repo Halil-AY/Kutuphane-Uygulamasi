@@ -11026,11 +11026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Halil\\Downloads\\WebUygulamaProje1_Version+1.0\\WebUygulamaProje1\\WebUygulamaProje1.csproj",
+      "projectUniqueName": "C:\\Users\\Halil\\Documents\\GitHub\\Kutuphane-Uygulamasi\\WebUygulamaProje1.csproj",
       "projectName": "WebUygulamaProje1",
-      "projectPath": "C:\\Users\\Halil\\Downloads\\WebUygulamaProje1_Version+1.0\\WebUygulamaProje1\\WebUygulamaProje1.csproj",
+      "projectPath": "C:\\Users\\Halil\\Documents\\GitHub\\Kutuphane-Uygulamasi\\WebUygulamaProje1.csproj",
       "packagesPath": "C:\\Users\\Halil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Halil\\Downloads\\WebUygulamaProje1_Version+1.0\\WebUygulamaProje1\\obj\\",
+      "outputPath": "C:\\Users\\Halil\\Documents\\GitHub\\Kutuphane-Uygulamasi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Halil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11041,7 +11041,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11106,7 +11105,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
