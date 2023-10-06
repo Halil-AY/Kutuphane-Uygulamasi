@@ -250,7 +250,7 @@ namespace WebUygulamaProje1.Migrations
 
                     b.HasIndex("KitapId");
 
-                    b.ToTable("Kiralamalar", (string)null);
+                    b.ToTable("Kiralamalar");
                 });
 
             modelBuilder.Entity("WebUygulamaProje1.Models.Kitap", b =>
@@ -287,7 +287,7 @@ namespace WebUygulamaProje1.Migrations
 
                     b.HasIndex("KitapTuruId");
 
-                    b.ToTable("Kitaplar", (string)null);
+                    b.ToTable("Kitaplar");
                 });
 
             modelBuilder.Entity("WebUygulamaProje1.Models.KitapTuru", b =>
@@ -305,7 +305,7 @@ namespace WebUygulamaProje1.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("KitapTurleri", (string)null);
+                    b.ToTable("KitapTurleri");
                 });
 
             modelBuilder.Entity("WebUygulamaProje1.Models.ApplicationUser", b =>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Halil\\Documents\\GitHub\\Kutuphane-Uygulamasi\\WebUygulamaProje1.csproj": {}
+    "C:\\Users\\Halil\\Downloads\\WebUygulamaProje1_Version+1.0 (1)\\WebUygulamaProje1\\WebUygulamaProje1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Halil\\Documents\\GitHub\\Kutuphane-Uygulamasi\\WebUygulamaProje1.csproj": {
+    "C:\\Users\\Halil\\Downloads\\WebUygulamaProje1_Version+1.0 (1)\\WebUygulamaProje1\\WebUygulamaProje1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Halil\\Documents\\GitHub\\Kutuphane-Uygulamasi\\WebUygulamaProje1.csproj",
+        "projectUniqueName": "C:\\Users\\Halil\\Downloads\\WebUygulamaProje1_Version+1.0 (1)\\WebUygulamaProje1\\WebUygulamaProje1.csproj",
         "projectName": "WebUygulamaProje1",
-        "projectPath": "C:\\Users\\Halil\\Documents\\GitHub\\Kutuphane-Uygulamasi\\WebUygulamaProje1.csproj",
+        "projectPath": "C:\\Users\\Halil\\Downloads\\WebUygulamaProje1_Version+1.0 (1)\\WebUygulamaProje1\\WebUygulamaProje1.csproj",
         "packagesPath": "C:\\Users\\Halil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Halil\\Documents\\GitHub\\Kutuphane-Uygulamasi\\obj\\",
+        "outputPath": "C:\\Users\\Halil\\Downloads\\WebUygulamaProje1_Version+1.0 (1)\\WebUygulamaProje1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Halil\\AppData\\Roaming\\NuGet\\NuGet.Config",
